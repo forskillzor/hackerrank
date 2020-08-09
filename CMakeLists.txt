@@ -5,7 +5,7 @@ project(hackerrunk)
 set(HEADERS)
 
 set(SOURCES
-        3.A-Very-Big-Sum.cpp
+    4.Diagonal-Difference.cpp
 )
 
 add_executable(run ${HEADERS} ${SOURCES})
