@@ -1,7 +1,7 @@
 CC = clang++
 CFLAGS = -g -O0
 
-5.Plus-Minus:
+10.Grading-Strudents:
 	$(CC) $@.cpp $(CFLAGS) -o run 
 
 
